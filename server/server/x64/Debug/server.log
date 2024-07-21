@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Admin\source\repos\server\server\main.cpp(37,1): error C2065: 'o': undeclared identifier
+C:\Users\Admin\source\repos\server\server\main.cpp(37,4): error C2144: syntax error: 'char' should be preceded by ';'
+C:\Users\Admin\source\repos\server\server\main.cpp(49,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
